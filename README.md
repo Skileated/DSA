@@ -1,7 +1,6 @@
-Data Structures & Algorithms — Reference (Markdown)
+
 # Data Structures & Algorithms — Full Reference
 
-This document provides clear explanations and pseudocode for core data structures and algorithms used in Computer Science.
 
 ---
 
